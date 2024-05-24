@@ -1,0 +1,21 @@
+{
+	"project_name": "Stroy Auto",
+	"/start": "Assalomu alaykum! 'Stroy Auto' loyihasining Telegram botiga xush kelibsiz! Bu yerda istalgan Qurilish texnikalari uchun yetkazib berish xizmati mavjud.",
+	"start_btn": {
+		"techniques": "🚚 Texnikalar",
+		"orders": "📝 Buyurtmalar",
+		"lang": "Uz 🇺🇿 / Ru 🇷🇺",
+		"cart": "🛒 Savat",
+		"admin": "👤 Admin"
+	},
+	"phone_key": "📲 Telefon raqamni yuborish",
+	"phone": "Iltimos, quyidagi tugmani bosish orqali telefon raqamingizni yuboring.👇",
+	"offer": "Ommaviy oferta (https://telegra.ph/Stroy-Auto-04-07) bilan tanishib chiqing.\nKeyingi bosqichga o‘tish orqali siz oferta shartlarini avtomatik ravishda qabul qilasiz.",
+	"receive_offer": "✅ Qabul qilaman",
+	"phone_error": "Telefon raqam xato! Faqat ushbu tugmani bosib ulashing...",
+	"register_success": "Registratsiyadan muvaffaqiyatli o'tdingiz endi botni barcha qulayliklaridan foydalanishingiz mumkin.",
+	"category_select": "Kategoriyalardan birini tanlang.",
+    "need_tech": "Kerakli texnikani tanlang.",
+	"back": "🔙 Ortga",
+    "add_cart": "🛒 Savatga qo'shish"
+}
